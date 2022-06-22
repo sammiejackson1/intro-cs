@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Sammies Website
 
 # Your name to show in the footer
-author: Some Person
+author: Sammie Jackson
 
 # --- List of links in the navigation bar --- #
 
@@ -103,14 +103,14 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+navbar-col: "#D0D5F7"
+navbar-text-col: "#FCF7DE"
+navbar-border-col: "#B8CFEC"
+page-col: "#D4FOF7"
+text-col: "#F6DAE4"
+link-col: "#8ED3F3"
+hover-col: "#87CDEE"
+footer-col: "#FDA172"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
